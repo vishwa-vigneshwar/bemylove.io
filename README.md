@@ -25,9 +25,6 @@ To get started with this project, follow these steps:
 
 Now you're ready to ask the big question!
 
-## 💕 Made with Love 💕
-
-This project was made with love by [Anish](https://github.com/xeven777). Feel free to use it to ask your own special someone to be your Valentine!
 
 ## 💌 Feedback and Contributions 💌
 
